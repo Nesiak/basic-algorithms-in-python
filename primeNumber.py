@@ -1,4 +1,4 @@
-def primeNumber(number):
+def prime_number(number):
     """Checks if given number is a prime number. Takes one argument."""
     i = 1
     counter = 0

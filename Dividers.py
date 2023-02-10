@@ -9,4 +9,4 @@ while i<=a:
     i+=1
 
 for x in dividers:
-    print(f"Divisor of a number {a}: {x}\n")
+    print(f"Divider of a number {a}: {x}\n")

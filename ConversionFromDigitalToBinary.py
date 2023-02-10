@@ -1,4 +1,4 @@
-#zamiana z 10 na 2
+#switch from binary to decimal
 a = int(input("> "))
 number = []
 

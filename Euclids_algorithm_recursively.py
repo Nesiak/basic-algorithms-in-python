@@ -1,4 +1,4 @@
-def Euklides(a, b):
+def euklides(a, b):
     if a != b:
         if a > b:
             tmp1 = a - b
@@ -10,6 +10,6 @@ def Euklides(a, b):
         else:
             tmp2 = b
         
-        return Euklides(tmp1, tmp2)
+        return euklides(tmp1, tmp2)
     
     return a

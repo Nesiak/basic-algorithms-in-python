@@ -1,4 +1,4 @@
-def affiliationPointToSegment():
+def affiliation_point_to_Segment():
     Ax = float(input("Ax: "))
     Ay = float(input("Ay: "))
 

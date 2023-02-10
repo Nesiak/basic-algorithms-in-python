@@ -1,4 +1,4 @@
-def PlotCipher(text):
+def plot_cipher(text):
     result = ''
     n = len(text)
     

@@ -10,7 +10,7 @@ def sort(str):
     str = ' '.join(str)
     return str
     
-def isAnagram(str1, str2):
+def is_anagram(str1, str2):
     if len(str1) == len(str2):
         if sort(str1) == sort(str2):
             return True

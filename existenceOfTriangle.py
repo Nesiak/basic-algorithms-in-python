@@ -1,4 +1,4 @@
-def existenceOfTriangle(a, b, c):
+def existence_of_triangle(a, b, c):
     if a > b and a > c:
         if a < b + c:
             return True

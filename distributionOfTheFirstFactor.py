@@ -1,4 +1,4 @@
-def distributionOfTheFirstFactor():
+def distribution_of_the_first_factor():
     number = int(input("> "))
     i = 2
     e = number ** 2

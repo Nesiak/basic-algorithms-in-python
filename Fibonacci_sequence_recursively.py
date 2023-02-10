@@ -1,8 +1,8 @@
-def Fibonacci_sequence(n):
+def fibonacci_sequence(n):
     if n < 3:
         return 1
     
-    return Fibonacci_sequence(n - 2) + Fibonacci_sequence(n - 1)
+    return fibonacci_sequence(n - 2) + fibonacci_sequence(n - 1)
 
-print(Fibonacci_sequence(12))
+print(fibonacci_sequence(12))
 

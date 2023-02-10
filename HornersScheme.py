@@ -1,4 +1,4 @@
-def HorneraScheme():
+def hornera_scheme():
     base = int(input("> "))
     a = input("a: ")
     b = input("b: ")

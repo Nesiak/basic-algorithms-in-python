@@ -1,4 +1,4 @@
-def CesarCipher(text, alphabet, key):
+def cesar_cipher(text, alphabet, key):
     result = ''
     dlT = len(text)
     dlA = len(alphabet)

@@ -1,7 +1,7 @@
-def Fibonacci_sequence():
+def fibonacci_sequence():
     a = 0
     b = 1
-    n = int(input("Długość ciągu: "))
+    n = int(input("Length of sequence: "))
     
     for i in range(n):
         print(b)

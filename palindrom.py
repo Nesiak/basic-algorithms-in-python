@@ -1,4 +1,4 @@
-def isPalindrom(str):
+def is_palindrom(str):
     i = 0
     j = len(str) - 1
     

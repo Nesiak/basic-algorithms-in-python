@@ -1,4 +1,4 @@
-def SwitchCipher(text):
+def switch_cipher(text):
     tekstTab = []
     
     for i in text:
